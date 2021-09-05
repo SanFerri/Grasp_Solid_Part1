@@ -9,7 +9,7 @@ using System.Collections;
 
 namespace Full_GRASP_And_SOLID.Library
 {
-    public class Recipe
+    public class Recipe          // Esta clase tiene la responsabilidad de armar la receta en  colaboración con la clase Step
     {
         public ArrayList steps = new ArrayList(); // Cambiamos el "private" por "public" para poder acceder al valor en la clase Total.
 

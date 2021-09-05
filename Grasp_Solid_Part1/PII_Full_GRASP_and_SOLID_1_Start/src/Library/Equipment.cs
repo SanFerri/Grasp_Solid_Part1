@@ -6,7 +6,7 @@
 
 namespace Full_GRASP_And_SOLID.Library
 {
-    public class Equipment
+    public class Equipment   // Esta clase tiene la responsabilidad de crear objetos de clase Equipment.
     {
         public Equipment(string description, double hourlyCost)
         {

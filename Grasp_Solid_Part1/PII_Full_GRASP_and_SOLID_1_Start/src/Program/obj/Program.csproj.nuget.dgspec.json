@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj": {}
+    "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj": {
+    "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\amore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\obj\\",
+        "projectPath": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amore\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
           "imports": [
             "net461",
             "net462",
@@ -58,32 +56,30 @@
         }
       }
     },
-    "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj": {
+    "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\amore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\obj\\",
+        "projectPath": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amore\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {
-              "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\amore\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj"
+              "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\juanj\\Desktop\\ucu2\\segundo semestre\\Programacion 2\\Grasp_Solid_Part1\\Grasp_Solid_Part1\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj"
               }
             }
           }
@@ -95,8 +91,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
           "imports": [
             "net461",
             "net462",

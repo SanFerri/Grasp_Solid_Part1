@@ -6,7 +6,7 @@
 
 namespace Full_GRASP_And_SOLID.Library
 {
-    public class Product
+    public class Product   // Esta clase tiene la responsabilidad de crear objetos de clase Product. 
     {
         public Product(string description, double unitCost)
         {

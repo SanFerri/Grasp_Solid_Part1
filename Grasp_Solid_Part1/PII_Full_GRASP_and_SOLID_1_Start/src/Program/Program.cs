@@ -27,8 +27,8 @@ namespace Full_GRASP_And_SOLID
             recipe.AddStep(new Step(GetProduct("Leche"), 200, GetEquipment("Hervidor"), 60));
             recipe.PrintRecipe();
 
-            Total T = new Total(recipe);
-            T.CalcularTotal();
+            Total total = new Total(recipe);
+            Console.WriteLine(total.CalcularTotal());
         }
 
         private static void PopulateCatalogs()

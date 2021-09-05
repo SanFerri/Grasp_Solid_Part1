@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = netcoreapp5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Library
+build_property.ProjectDir = C:\Users\juanj\Desktop\ucu2\segundo semestre\Programacion 2\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Library\

@@ -6,7 +6,7 @@
 
 namespace Full_GRASP_And_SOLID.Library
 {
-    public class Step
+    public class Step        // Esta clase tiene la responsabilidad de crear objetos de clase Step. También colabora con Product y Equipment
     {
         public Step(Product input, double quantity, Equipment equipment, int time)
         {
