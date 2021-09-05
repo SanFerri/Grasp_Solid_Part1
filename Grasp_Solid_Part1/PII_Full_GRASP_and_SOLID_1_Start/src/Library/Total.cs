@@ -1,24 +1,31 @@
+using System;
+
 namespace Full_GRASP_And_SOLID.Library
 {
     public class Total
     {
-        p
+        
+        Recipe recipe { get; set; }
+
         public Total(Recipe recipe)
         {
             this.recipe = recipe;
         }
         
-        public int CalcularTotal()
+        public void CalcularTotal()
         {
-            foreach(step in recipe.steps)
+            double gasto = 0;
+            foreach(Step step in recipe.steps)
             {
-                cantidad = step.Quantity;
-                producto = step.Input;
-                tiempo = step.Time;
-                equipamiento = step.Equipment;
+                double cantidad = step.Quantity;
+                Product producto = step.Input;
+                double tiempo = step.Time/60;
+                Equipment equipamiento = step.Equipment;
 
-                Total = (producto.UnitCost * cantidad) + (equipamiento.HourlyCost * tiempo)
+                gasto += producto.UnitCost * cantidad + equipamiento.HourlyCost * tiempo;
+                
             }
+            Console.WriteLine(gasto);
         }
     }
 }
