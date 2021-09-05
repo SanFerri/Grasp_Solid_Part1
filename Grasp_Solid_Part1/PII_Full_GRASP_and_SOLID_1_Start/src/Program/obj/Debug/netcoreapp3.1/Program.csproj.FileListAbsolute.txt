@@ -1,0 +1,17 @@
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\amore\Grasp_Solid_Part1\Grasp_Solid_Part1\PII_Full_GRASP_and_SOLID_1_Start\src\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
